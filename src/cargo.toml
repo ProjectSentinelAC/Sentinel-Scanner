@@ -1,3 +1,5 @@
+// Licensed under the Sentinel View-Only Source License – see LICENSE file.
+
 [package]
 name = "sentinel-scanner"
 version = "0.1.0"
