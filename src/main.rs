@@ -1,3 +1,5 @@
+// Licensed under the Sentinel View-Only Source License – see LICENSE file.
+
 use sysinfo::System;
 use active_win_pos_rs::get_active_window;
 
