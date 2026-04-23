@@ -1,0 +1,56 @@
+Sentinel Anti-Cheat Client – View-Only Source License v1.0
+
+Copyright (c) 2026 Project Sentinel
+
+All rights reserved.
+
+1. VIEWING AND VERIFICATION
+You may view, study, and compile the provided source code solely for the purpose
+of verifying its safety, functionality, and data‑handling practices. You may run
+the unmodified compiled binary on your own systems for personal, non‑commercial
+security analysis.
+
+2. STRICT PROHIBITIONS
+You may NOT, under any circumstances:
+
+   a) Modify, adapt, alter, translate, or create derivative works based on the
+      source code, in whole or in part.
+
+   b) Distribute, sublicense, sell, lease, or otherwise transfer the source code
+      or any compiled version of it to any third party.
+
+   c) Use the source code or any part of it for any commercial purpose, including
+      but not limited to: building a competing anti‑cheat product, incorporating
+      it into a service, or offering it as part of a paid or free‑of‑charge
+      third‑party solution.
+
+   d) Remove, obscure, or alter any copyright notices, license text, or
+      attribution contained within the source code.
+
+3. INTELLECTUAL PROPERTY
+All rights, title, and interest in the source code and any related documentation
+remain the exclusive property of the original copyright holder. This license does
+not grant you any ownership rights.
+
+4. UNAUTHORIZED MODIFICATIONS AND LEGAL REMEDIES
+Any modification, adaptation, or creation of derivative works in violation of
+Section 2 constitutes copyright infringement. The copyright holder reserves the
+right to seek all available legal remedies, including injunctive relief and
+monetary damages, against any person or entity that creates, distributes, or
+uses an unauthorized modified version of the software.
+
+5. TERMINATION
+This license and your right to view the source code terminate automatically if
+you violate any of its terms. Upon termination, you must immediately destroy all
+copies of the source code and any compiled binaries in your possession.
+
+6. NO WARRANTY
+The source code is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non‑infringement. In no event shall the
+copyright holder be liable for any claim, damages, or other liability arising
+from, out of, or in connection with the software or the use or other dealings
+in the software.
+
+By viewing, storing, or compiling the source code, you agree to be bound by
+the terms of this license.
